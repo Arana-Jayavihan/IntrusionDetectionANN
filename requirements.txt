@@ -1,0 +1,8 @@
+requests
+pandas
+keras
+matplotlib
+numpy==1.26.4
+scikit-learn
+tensorflow
+configparser
